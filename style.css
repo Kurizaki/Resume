@@ -721,7 +721,6 @@ td {
     .project-3,
     .project-2,
     .project-1 {
-      position: block;
       margin-top: 20px;
       justify-content: center;
       align-items: center;
